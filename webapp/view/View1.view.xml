@@ -5,6 +5,7 @@
 				<Page id="page" title="{i18n>title}">
 					<content>
 						<ObjectHeader title="Welcome to the xml view"></ObjectHeader>
+						<Label text="Hi Sudhakar"></Label>
 					</content>
 				</Page>
 			</pages>
