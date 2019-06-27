@@ -6,6 +6,7 @@
 					<content>
 						<ObjectHeader title="Welcome to the xml view"></ObjectHeader>
 						<Label text="Hi Sudhakar"></Label>
+						<Input
 					</content>
 				</Page>
 			</pages>
